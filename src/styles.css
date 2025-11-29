@@ -1,0 +1,4 @@
+.container-max { max-width: 1100px; }
+.small-muted { font-size: 0.9rem; color: #6c757d; }
+.error { color: #dc3545; font-size: 0.9rem; }
+.success { color: #198754; font-size: 0.95rem; }
